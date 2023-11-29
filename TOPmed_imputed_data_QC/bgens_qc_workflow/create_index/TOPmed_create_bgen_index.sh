@@ -1,0 +1,28 @@
+dx run swiss-army-knife \
+	--instance-type mem3_ssd3_x4 \
+	--priority normal \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c1_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c2_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c3_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c4_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c5_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c6_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c7_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c8_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c9_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c10_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c11_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c12_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c13_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c14_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c15_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c16_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c17_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c18_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c19_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c20_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c21_b0_v1_qc_pass.bgen" \
+	-iin="/Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ukb21007_c22_b0_v1_qc_pass.bgen" \
+	-icmd="for i in *.bgen; do bgenix -index -g \"\${i}\";done" \
+	--destination /Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ \
+	--name TOPmed_create_bgen_index

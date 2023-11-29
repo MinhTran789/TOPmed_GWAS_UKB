@@ -1,0 +1,50 @@
+dx run workflow-GbFfJ50Jj7xg0Pq53F0386fP \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c1_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c2_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c3_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c4_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c5_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c6_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c7_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c8_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c9_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c10_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c11_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c12_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c13_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c14_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c15_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c16_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c17_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c18_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c19_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c20_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c21_b0_v1.bgen" \
+  -istage-common.geno_bgen_files="/Bulk/Imputation/Imputation from genotype (TOPmed)/ukb21007_c22_b0_v1.bgen" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c1_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c2_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c3_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c4_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c5_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c6_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c7_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c8_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c9_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c10_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c11_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c12_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c13_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c14_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c15_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c16_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c17_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c18_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c19_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c20_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c21_b0_v1.sample" \
+  -istage-common.geno_sample_files="/Users/Mike/ukb_gwas_TOPmed/fixed_TOPmed_samples/ukb21007_c22_b0_v1.sample" \
+  -istage-common.output_prefix="TOPmed_imputed_snps_data_qc_pass" \
+  -istage-common.keep_file="/Users/Mike/00040884/atopic_dermatitis_df.phe" \
+  -istage-common.plink2_options="--mac 10 --maf 0.0001 --hwe 1e-15 --mind 0.1 --geno 0.1 --set-missing-var-ids @:#:\\\$r:\\\$a --new-id-max-allele-len 200 truncate --export bgen-1.2 'bits=8'" \
+  --destination /Users/Mike/ukb_gwas_TOPmed/TOPmed_qc_with_new_bgen_3/ \
+  --name TOPmed_qc_with_new_bgen_3
